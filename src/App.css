@@ -1,0 +1,26 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  padding: 32px;
+}
+
+.div-wallet-address {
+  font-size: large;
+  margin-bottom: 32px;
+}
+
+.div-wallet-button {
+  font-size: large;
+}
+
+.btn {
+  padding: 12px;
+}
+
+.btn-wallet-connect {
+  color: green;
+}
+
+.btn-mint-nft {
+  color: brown;
+}
